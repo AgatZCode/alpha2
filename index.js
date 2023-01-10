@@ -3145,7 +3145,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             ]
             if (typemenu == 'document') {
                if (db.data.users[m.sender].registered) {
-                  sendButDoC(alpha, m.chat, ini_anu, '© ' + ownername, botname, ownername, `WhatsApp Bot Multi Device`, time, pp_bot, pp_bot, buttojns, [ownernya, ini_mark, m.sender], {
+                  sendButDoC(alpha, m.chat, ini_anu, '© ' + ownername, botname, ownername, `AgtNaizhr-BOT`, time, pp_bot, pp_bot, buttojns, [ownernya, ini_mark, m.sender], {
                      quoted: ftroli
                   })
                }
